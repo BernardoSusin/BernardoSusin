@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BernardoSusin
 - 👀 I’m interested in creating projects and learning more about this world
-- 🌱 I’m currently learning Html, Css and Java Scrip
+- 🌱 I’m currently learning Html, Css and Java Script
 - 💞️ I’m focused in my project
 - 📫 How to reach me ...
 - 😄 Pronouns: RH/CP
